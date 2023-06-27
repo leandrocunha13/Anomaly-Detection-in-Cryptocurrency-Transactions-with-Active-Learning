@@ -38,6 +38,6 @@ To reproduce the results, you can find all the necessary Python scripts in the s
 
 #Author
 
-Leandro Cunha: cunhaleandro89@gmail.com
+- Leandro Cunha: cunhaleandro89@gmail.com
 
 
